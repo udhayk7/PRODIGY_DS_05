@@ -1,0 +1,14 @@
+INDIAN ROAD ACCIDENTS ANALYSIS 2019
+===================================
+
+National Statistics:
+Total Accidents: 443,907
+Total Deaths: 146,948
+Total Injuries: 443,972
+
+Average Statistics per State:
+Average Accidents: 14,796.90
+Average Deaths: 4,898.27
+Average Injuries: 14,799.07
+Average Fatality Rate: 40.50%
+Average Injury Rate: 113.89%
